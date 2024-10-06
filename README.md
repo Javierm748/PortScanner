@@ -10,7 +10,7 @@ The purpose of writting this software is so that people can not only check if po
 
 Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the sofware
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video]((https://youtu.be/HzEJwGCRM1s))
 
 # Network Communication
 
